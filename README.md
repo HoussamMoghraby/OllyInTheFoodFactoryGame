@@ -9,8 +9,14 @@
 5. Make sure you have Visual Studio 2015 or 2017 https://www.visualstudio.com/downloads/ since we will be using C# scripting for Unity.
 
 ### Validation Check
-1. Restart your PC and open **cmd** and type
-> git --version
+1. Restart your PC and open **cmd** and type:
+
+```
+git status
+git add
+git commit
+```
+
 This should show you the current version of the installed GIT.
 
 ### 2. First Time Setup

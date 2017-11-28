@@ -8,6 +8,11 @@
 4. Download and Install GITHUB Client from https://desktop.github.com/.
 5. Make sure you have Visual Studio 2015 or 2017 https://www.visualstudio.com/downloads/ since we will be using C# scripting for Unity.
 
+### Validation Check
+1. Restart your PC and open **cmd** and type
+> git --version
+This should show you the current version of the installed GIT.
+
 ### 2. First Time Setup
 1. Once GITHUB Client is installed, open it and clone the repository https://github.com/HoussamMoghraby/OllyInTheFoodFactoryGame.git.
 2. It will ask you to setup GIT LFS, confirm and continue (this is very important to accept this dialog so the binary files configuration inside git is accepted)

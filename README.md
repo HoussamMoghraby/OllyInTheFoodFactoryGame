@@ -9,7 +9,7 @@
 5. Make sure you have Visual Studio 2015 or 2017 https://www.visualstudio.com/downloads/
 
 ### 2. First Time Setup
-1. Once GITHUB Client is installed, open it and enter this reporsitory url in the Clone Repository URL.
+1. Once GITHUB Client is installed, open it and clone the repository.
 2. It will ask you to setup GIT LFS, confirm and continue (this is very important to accept this dialog so the binary files configuration inside git is accepted)
 3. Once Unity is installed:
     - Run Unity, Click on **Open Project**

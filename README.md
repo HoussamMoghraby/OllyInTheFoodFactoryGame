@@ -26,3 +26,4 @@ This should show you the current version of the installed GIT.
     - Run the Game inside Unity and see if the console pops any errors.
 
 If the above steps passed with no errors then **Welcome Aboard** :clap: :sunglasses:
+Otherwise contact me @HoussamAlMoughraby

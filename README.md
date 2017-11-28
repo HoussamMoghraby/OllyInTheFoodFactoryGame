@@ -12,11 +12,8 @@
 1. Restart your PC and open **cmd** and type:
 
 ```
-git status
-git add
-git commit
+git --version
 ```
-
 This should show you the current version of the installed GIT.
 
 ### 2. First Time Setup

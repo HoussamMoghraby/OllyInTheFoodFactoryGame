@@ -19,11 +19,11 @@ This should show you the current version of the installed GIT.
 
 ### 2. First Time Setup
 1. Once GITHUB Client is installed, open it and clone the repository https://github.com/HoussamMoghraby/OllyInTheFoodFactoryGame.git.
-2. It will ask you to setup GIT LFS, confirm and continue (this is very important to accept this dialog so the binary files configuration inside git is accepted)
+2. It will ask you to setup GIT LFS, confirm and continue (it is very important to accept this dialog so the binary files configuration inside git is accepted)
 3. Once Unity is installed:
     - Run Unity, Click on **Open Project**
     - Navigate to the directory where you cloned the above repo and click **Select Folder**
-    - It may take time to load the project since it's importing for libraries for the same time.
+    - It may take time to load the project since it's importing the libraries for the first time.
     - Run the Game inside Unity and see if the console pops any errors.
 
 If the above steps passed with no errors then **Welcome Aboard** :clap: :sunglasses:

@@ -7,7 +7,7 @@
 3. Download and Install GIT LFS for Large Files from https://git-lfs.github.com/.
 4. Download and Install GITHUB Client from https://desktop.github.com/.
 5. Make sure you have Visual Studio 2015 or 2017 https://www.visualstudio.com/downloads/ since we will be using C# scripting for Unity.
-6. Create an account on Trello and share your username to add you to the team board https://trello.com/
+6. Create an account on Trello for tasks tracking and share your username to add you to the team board https://trello.com/
 
 ### Validation Check
 1. Restart your PC and open **cmd** and type:
